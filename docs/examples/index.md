@@ -26,18 +26,18 @@ This section contains all the code examples and hands-on exercises referenced in
 
 ### ROS 2 Examples
 - [ROS 2 Kinematics](./lesson-2-ros2-exercise/)
-- [ROS 2 Perception](./lesson-3-ros2-exercise/)
+- [ROS 2 Perception](./lesson-2-ros2-exercise/)
 
 ### Gazebo Examples
 - [Gazebo Simulation](./lesson-2-gazebo-exercise/)
-- [Gazebo Sensors](./lesson-3-gazebo-exercise/)
+- [Gazebo Sensors](./lesson-2-gazebo-exercise/)
 
 ### Unity Examples
 - [Unity Robot Model](./lesson-3-unity-exercise/)
-- [Unity Perception](./lesson-3-unity-exercise/perception.md)
+- [Unity Perception](./lesson-3-unity-exercise/README.md)
 
 ### NVIDIA Isaac Examples
-- [Isaac Motion Planning](./lesson-2-isaac-exercise/)
+- [Isaac Motion Planning](./lesson-3-isaac-exercise/)
 - [Isaac Perception](./lesson-3-isaac-exercise/)
 
 ## Getting Started
