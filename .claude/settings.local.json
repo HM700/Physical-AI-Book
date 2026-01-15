@@ -4,7 +4,15 @@
       "Bash(git checkout HEAD -- history/ specs/)",
       "Bash(git checkout HEAD -- .specify/ .claude/ CLAUDE.md constitution_content.md)",
       "Skill(sp.phr)",
-      "Bash(.specify/scripts/bash/create-phr.sh --title \"Fix-navbar-double-text-and-complete-content-structure\" --stage general --json)"
+      "Bash(.specify/scripts/bash/create-phr.sh --title \"Fix-navbar-double-text-and-complete-content-structure\" --stage general --json)",
+      "Skill(sp.plan)",
+      "Bash(uv --version)",
+      "Bash(pip install uv)",
+      "Bash(uv init)",
+      "Bash(dir docs /s)",
+      "Bash(Get-ChildItem -Recurse docs)",
+      "Bash(git rev-parse --git-dir)",
+      "Bash(npm start)"
     ]
   }
 }
